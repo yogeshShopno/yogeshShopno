@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yogesh Parmar
+# 👋 Hi, I'm Y M Parmar
  
 I’m a passionate and dedicated **React Developer** currently working at **ShopNo**, focused on crafting intuitive, scalable, and performance-driven web applications.
  
@@ -62,7 +62,7 @@ Explore my latest projects and work at
  
 - 📧 Email: [yogesh.shopno@gmail.com](mailto:yogesh.shopno@gmail.com)
 - 🌐 Portfolio: [ymparmar.vercel.app](https://ymparmar.vercel.app)
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
+- 💼 LinkedIn:
  
 ---
  
