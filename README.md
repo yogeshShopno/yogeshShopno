@@ -69,34 +69,3 @@ Explore my latest projects and work at
 _“Striving to build meaningful digital experiences through clean code, constant learning, and creativity.”_
  
  
- 
-https://app.desibundle.org/
-Desi Bundle – India's No.1 Tools Website
-A post from rajshivamgroup122 on Desi Bundle provided by: https://app.desibundle.org
- 
-shopno.in@gmail.com
-shopno.in@gmail.com
- 
-https://www.mediafire.com/file/aprwl9k9fuj8hvr/DesiBundle_Extension_V3.1.1.zip/file
- 
-https://www.mediafire.com/file/aprwl9k9fuj8hvr/DesiBundle_Extension_V3.1.1.zip/file
- 
-DesiBundle_Extension V3.1.1 (1).zip
- 
-list-distributer aa wali api ma "purches_return_bill_amount" aa chhe
- 
-"view-distributer "ama tamare apvani chhe : total_due_amount
- 
- 
-how the honey will decay it self over time
- 
-   // Allow all localhost ports
-
-    if (/^http:\/\/localhost:\d+$/.test(origin)) {
-
-      return callback(null, true);
-
-    }
- 
-http://192.168.29.80:3000    
- 
